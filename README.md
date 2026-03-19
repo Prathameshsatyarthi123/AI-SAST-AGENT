@@ -1,4 +1,4 @@
-# 🛡️ AI SAST Code Scanning Agent
+# 🛡️ AI SAST Agent
 
 **An AI-powered Static Application Security Testing tool that analyzes Python code for security vulnerabilities — combining LLM intelligence with Semgrep's rule-based scanning engine.**
 
