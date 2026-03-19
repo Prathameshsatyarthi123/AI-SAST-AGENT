@@ -209,6 +209,8 @@ Returns API health status.
 
 ---
 
+YOU CAN DEPLOY THIS AGENT TO ANY CONTAINER SUPPORT SERVICE. HERE IS GENERAL DEMO OF DEPLOYING IT TO SIMPLE EC2(LINUX) INSTANCE
+
 ## ☁️ Deploy to AWS EC2
 
 ```bash
@@ -255,13 +257,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
 ## 👨‍💻 Author
 
 Built by [Prathamesh Satyarthi](https://github.com/Prathameshsatyarthi123)
+
+---
+
 
